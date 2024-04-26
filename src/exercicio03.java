@@ -1,8 +1,10 @@
 // Peça ao usuario para digitar tres valores inteiros e imprima a soma deles
+
 import java.util.Scanner;
-public class exercico03 {
+public class exercicio03 {
     public static void main (String[] args){
        Scanner scanner = new Scanner(System.in);
+
        System.out.println("Digite um Numero ");
        int  a = scanner.nextInt();
 
